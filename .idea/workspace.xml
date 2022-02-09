@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="582a6dca-0e91-4b06-a093-06e82767bccb" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/corppix/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1586">
+              <caret line="747" column="4" lean-forward="false" selection-start-line="747" selection-start-column="4" selection-end-line="750" selection-end-column="5" />
+              <folding>
+                <marker date="1611580350780" expanded="true" signature="17194:19181" ph="..." />
+                <marker date="1611580350780" expanded="true" signature="18253:18728" ph="..." />
+                <marker date="1611580350780" expanded="true" signature="18768:18878" ph="..." />
+                <marker date="1611580350780" expanded="true" signature="18885:19174" ph="..." />
+                <marker date="1611580350780" expanded="true" signature="18987:19068" ph="..." />
+                <marker date="1611580350780" expanded="true" signature="19329:21316" ph="..." />
+                <marker date="1611580350780" expanded="true" signature="20389:20864" ph="..." />
+                <marker date="1611580350780" expanded="true" signature="20904:21014" ph="..." />
+                <marker date="1611580350780" expanded="true" signature="21021:21309" ph="..." />
+                <marker date="1611580350780" expanded="true" signature="21123:21204" ph="..." />
+                <marker date="1611580350780" expanded="true" signature="21464:23445" ph="..." />
+                <marker date="1611580350780" expanded="true" signature="22522:22994" ph="..." />
+                <marker date="1611580350780" expanded="true" signature="23034:23143" ph="..." />
+                <marker date="1611580350780" expanded="true" signature="23150:23438" ph="..." />
+                <marker date="1611580350780" expanded="true" signature="23252:23333" ph="..." />
+                <marker date="1611580350780" expanded="true" signature="23593:25997" ph="..." />
+                <marker date="1611580350780" expanded="true" signature="24732:25263" ph="..." />
+                <marker date="1611580350780" expanded="true" signature="25331:25483" ph="..." />
+                <marker date="1611580350780" expanded="true" signature="25518:25962" ph="..." />
+                <marker date="1611580350780" expanded="true" signature="25652:25797" ph="..." />
+                <marker date="1611580350780" expanded="true" signature="26145:28133" ph="..." />
+                <marker date="1611580350780" expanded="true" signature="27206:27681" ph="..." />
+                <marker date="1611580350780" expanded="true" signature="27721:27831" ph="..." />
+                <marker date="1611580350780" expanded="true" signature="27838:28126" ph="..." />
+                <marker date="1611580350780" expanded="true" signature="27940:28021" ph="..." />
+                <marker date="1611580350780" expanded="true" signature="28281:30271" ph="..." />
+                <marker date="1611580350780" expanded="true" signature="29342:29820" ph="..." />
+                <marker date="1611580350780" expanded="true" signature="29860:29969" ph="..." />
+                <marker date="1611580350780" expanded="true" signature="29976:30264" ph="..." />
+                <marker date="1611580350780" expanded="true" signature="30078:30159" ph="..." />
+                <marker date="1611580350780" expanded="true" signature="32157:32432" ph="..." />
+                <marker date="1611580350780" expanded="true" signature="32307:32432" ph="..." />
+                <marker date="1611580350780" expanded="true" signature="51482:53510" ph="..." />
+                <marker date="1611580350780" expanded="true" signature="52566:53061" ph="..." />
+                <marker date="1611580350780" expanded="true" signature="53110:53230" ph="..." />
+                <marker date="1611580350780" expanded="true" signature="53244:53497" ph="..." />
+                <marker date="1611580350780" expanded="true" signature="53356:53449" ph="..." />
+                <marker date="1611580350780" expanded="true" signature="80363:80532" ph="SELECT MAX(C... sdfsdfsdf_postmeta" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_woocommerce.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/corppix/development/sass/_woocommerce.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="4120" column="17" lean-forward="true" selection-start-line="4120" selection-start-column="17" selection-end-line="4120" selection-end-column="17" />
+              <folding>
+                <element signature="e#113#45801#0" expanded="false" />
+                <element signature="e#9716#10108#0" expanded="false" />
+                <element signature="e#255233#260705#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="customization.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/corppix/development/js/customization.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="971" column="25" lean-forward="false" selection-start-line="971" selection-start-column="16" selection-end-line="971" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/corppix/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="430">
+              <caret line="48" column="44" lean-forward="false" selection-start-line="48" selection-start-column="44" selection-end-line="48" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/corppix/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="227">
+              <caret line="27" column="6" lean-forward="false" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom_shortcodes.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/corppix/inc/custom_shortcodes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-244">
+              <caret line="1790" column="35" lean-forward="false" selection-start-line="1790" selection-start-column="35" selection-end-line="1790" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>['switch']['storage']['dir</find>
+      <find>['switch']['storage']['di</find>
+      <find>['switch']['storage']['d</find>
+      <find>['switch']['storage']['</find>
+      <find>['switch']['storage'][</find>
+      <find>['switch']['storage']</find>
+      <find>['switch']</find>
+      <find>text</find>
+      <find>js-wrap-shop-columns-sidebar</find>
+      <find>598</find>
+      <find>Left Sidebar</find>
+      <find>js-min-price</find>
+      <find>MIN_PRICE</find>
+      <find>range_price</find>
+      <find>woof-list-checkbox-form__title js-woof-list-checkbox-form__title</find>
+      <find>get_terms_for_filter</find>
+      <find>o</find>
+      <find>od</find>
+      <find>od</find>
+      <find>\$id \= get_option\(\'woocommerce_shop_page_id\'\)\;\n    if \(\$id\) \{\n      \$title \= get_field\(\'filter_name\'\, \$id\)\;\n    \}</find>
+      <find>content: 'od';</find>
+      <find>content: 'od';</find>
+      <find>content: 'od';</find>
+      <find>content: 'od';</find>
+      <find>content: 'od';</find>
+      <find>display_product_categories_filter</find>
+      <find>do</find>
+      <find>site-header__login js-open-popup-activator</find>
+      <find>do'</find>
+      <find>$login</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wp-content/themes/corppix/footer.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/corppix/inc/custom_shortcodes.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/corppix/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/corppix/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/corppix/development/sass/_woocommerce.scss" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/wp-content/themes/corppix/development/node_modules" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="freza" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="freza" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="freza" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="freza" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="freza" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="freza" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="freza" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="freza" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="corppix" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="freza" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="freza" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="corppix" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="inc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="freza" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="freza" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="corppix" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="development" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="582a6dca-0e91-4b06-a093-06e82767bccb" name="Default" comment="" />
+      <created>1611131658547</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611131658547</updated>
+      <workItem from="1611131660172" duration="8083000" />
+      <workItem from="1611160494114" duration="11882000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="19965000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="1000" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25239617" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/corppix/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56784">
+          <caret line="2184" column="39" lean-forward="false" selection-start-line="2184" selection-start-column="9" selection-end-line="2184" selection-end-column="39" />
+          <folding>
+            <marker date="1611580350780" expanded="true" signature="17194:19181" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="18253:18728" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="18768:18878" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="18885:19174" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="18987:19068" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="19329:21316" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="20389:20864" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="20904:21014" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="21021:21309" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="21123:21204" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="21464:23445" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="22522:22994" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="23034:23143" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="23150:23438" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="23252:23333" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="23593:25997" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="24732:25263" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="25331:25483" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="25518:25962" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="25652:25797" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="26145:28133" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="27206:27681" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="27721:27831" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="27838:28126" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="27940:28021" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="28281:30271" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="29342:29820" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="29860:29969" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="29976:30264" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="30078:30159" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="32157:32432" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="32307:32432" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="51482:53510" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="52566:53061" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="53110:53230" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="53244:53497" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="53356:53449" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="80363:80532" ph="SELECT MAX(C... sdfsdfsdf_postmeta" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/corppix/inc/custom_shortcodes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47086">
+          <caret line="1813" column="10" lean-forward="false" selection-start-line="1813" selection-start-column="10" selection-end-line="1813" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/corppix/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1248">
+          <caret line="48" column="44" lean-forward="true" selection-start-line="48" selection-start-column="44" selection-end-line="48" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/corppix/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="48" column="44" lean-forward="false" selection-start-line="48" selection-start-column="44" selection-end-line="48" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/corppix/development/js/customization.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="971" column="25" lean-forward="false" selection-start-line="971" selection-start-column="16" selection-end-line="971" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/corppix/inc/custom_shortcodes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-244">
+          <caret line="1790" column="35" lean-forward="false" selection-start-line="1790" selection-start-column="35" selection-end-line="1790" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/corppix/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1586">
+          <caret line="747" column="4" lean-forward="false" selection-start-line="747" selection-start-column="4" selection-end-line="750" selection-end-column="5" />
+          <folding>
+            <marker date="1611580350780" expanded="true" signature="17194:19181" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="18253:18728" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="18768:18878" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="18885:19174" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="18987:19068" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="19329:21316" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="20389:20864" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="20904:21014" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="21021:21309" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="21123:21204" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="21464:23445" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="22522:22994" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="23034:23143" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="23150:23438" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="23252:23333" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="23593:25997" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="24732:25263" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="25331:25483" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="25518:25962" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="25652:25797" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="26145:28133" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="27206:27681" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="27721:27831" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="27838:28126" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="27940:28021" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="28281:30271" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="29342:29820" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="29860:29969" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="29976:30264" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="30078:30159" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="32157:32432" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="32307:32432" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="51482:53510" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="52566:53061" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="53110:53230" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="53244:53497" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="53356:53449" ph="..." />
+            <marker date="1611580350780" expanded="true" signature="80363:80532" ph="SELECT MAX(C... sdfsdfsdf_postmeta" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/corppix/development/sass/_woocommerce.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="4120" column="17" lean-forward="true" selection-start-line="4120" selection-start-column="17" selection-end-line="4120" selection-end-column="17" />
+          <folding>
+            <element signature="e#113#45801#0" expanded="false" />
+            <element signature="e#9716#10108#0" expanded="false" />
+            <element signature="e#255233#260705#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/corppix/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="27" column="6" lean-forward="false" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
